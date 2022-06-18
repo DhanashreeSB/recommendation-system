@@ -1,0 +1,1 @@
+web: gunicorn MusicRecommendation.wsgi --log-file -
